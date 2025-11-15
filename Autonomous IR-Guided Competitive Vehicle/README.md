@@ -1,6 +1,7 @@
 🤖 Autonomous IR-Guided Competitive Vehicle I developed an autonomous vehicle designed for a competitive challenge, where the goal was to reach an IR transmitter placed across the arena in the shortest possible time while avoiding obstacles.
  
- The system integrates: 
+ The system integrates:
+ 
 •	IR Communication – IR333A transmitter (38 kHz modulated with 280 Hz external frequency) and TSOP4838 receivers for accurate signal tracking while filtering environmental noise. 
 
 •	Control & Processing – Arduino Mega 2560 as the main controller, handling data acquisition and real-time decision-making. 
