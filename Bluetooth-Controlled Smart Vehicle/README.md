@@ -14,4 +14,4 @@ Key features include:
 
 •	User Interface – LCD screen displaying vehicle direction (Forward, Backward, Right, Left, Neutral, Stop) and distance from obstacles. 
 
-This project strengthened my skills in embedded system design, real-time control, communication protocols (UART, PWM), and debugging hardware/software integration.
+This project strengthened my skills in embedded system design, real-time control, communication protocols UART and debugging hardware/software integration.
