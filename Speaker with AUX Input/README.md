@@ -1,4 +1,4 @@
-AUX Speaker – LM386 Audio Amplifier
+🔊AUX Speaker – LM386 Audio Amplifier
 This project is a simple DIY mono speaker that receives a standard 3.5mm AUX audio input.
 The circuit mixes stereo (L/R) audio into mono, amplifies the signal using an LM386 audio amplifier, and drives an 8Ω speaker.
 Features
