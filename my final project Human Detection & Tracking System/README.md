@@ -19,6 +19,6 @@ Automated alerts via buzzer, LED, and email (SMTP).
 
 Video recording using Picamera2 (MJPEG). 
 
-Tools & Technologies: Python | OpenCV | TensorFlow Lite | Raspberry Pi 4B | Picamera2 | Tkinter GUI |threading
+Tools & Technologies: Python | OpenCV | TensorFlow Lite | Raspberry Pi 4B | Picamera2 | Tkinter GUI |threading| Kicad| 
 
 GPIO Applications: Smart surveillance, home security, sensitive-area monitoring, and integration in autonomous systems.
