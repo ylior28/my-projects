@@ -11,7 +11,7 @@ Real-time person detection using TensorFlow Lite (MobileNetV1-SSD).
 
 Servo-controlled camera for dynamic tracking. 
 
-Ultrasonic sensor for distance measurement and safety monitoring. 
+Ultrasonic sensor for distance measurement.
 
 Interactive GUI (Tkinter) for manual/automatic control and live video feed. 
 
